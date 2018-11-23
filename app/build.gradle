@@ -1,0 +1,31 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion '28.0.3'
+    useLibrary 'org.apache.http.legacy'
+
+    defaultConfig {
+        applicationId "org.ebayopensource.fidouafclient"
+        minSdkVersion 21
+        targetSdkVersion 25
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    implementation 'com.android.support:support-v4:25.2.0'
+    implementation 'com.google.code.gson:gson:2.3.1'
+    implementation group: 'com.madgag.spongycastle', name: 'prov', version: '1.58.0.0'
+    implementation group: 'commons-codec', name: 'commons-codec', version: '1.10'
+    implementation 'com.google.firebase:firebase-messaging:11.8.0'
+    implementation "com.android.support:support-compat:25.2.0"
+}
+
+apply plugin: 'com.google.gms.google-services'

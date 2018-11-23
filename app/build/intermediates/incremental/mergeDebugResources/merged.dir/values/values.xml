@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <color name="hint_color">#42000000</color>
+    <color name="success_color">#009688</color>
+    <color name="warning_color">#f4511e</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="horizontal_page_margin">@dimen/margin_medium</dimen>
+    <dimen name="margin_huge">64dp</dimen>
+    <dimen name="margin_large">32dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_tiny">4dp</dimen>
+    <dimen name="vertical_page_margin">@dimen/margin_medium</dimen>
+    <integer name="google_play_services_version">11910000</integer>
+    <string name="action_button_reg">register</string>
+    <string name="action_discover">Discover</string>
+    <string name="action_save_message">Save message</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Sagar - UAF Test RP App</string>
+    <string name="application_name">FingerprintDialog</string>
+    <string name="authenticate">Authenticate</string>
+    <string name="cancel">Cancel</string>
+    <string name="common_google_play_services_unknown_issue"><ns1:g id="app_name">%1$s</ns1:g> is having trouble with Google Play services. Please try again.</string>
+    <string name="default_web_client_id" translatable="false">1019218267412-g0irf8b4vlh4nemcpo23a7vtsibq0dpi.apps.googleusercontent.com</string>
+    <string name="description_bugdroid_icon">Android bugdroid image</string>
+    <string name="description_fingerprint_icon">Fingerprint icon</string>
+    <string name="enter_message_filename">Enter filename to save message</string>
+    <string name="external_storage_is_unavailable">External storage is unavailable</string>
+    <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="file_could_not_be_saved">File could not be saved</string>
+    <string name="fingerprint_description">Confirm fingerprint to continue</string>
+    <string name="fingerprint_hint">Touch sensor</string>
+    <string name="fingerprint_not_recognized">Fingerprint not recognized. Try again</string>
+    <string name="fingerprint_success">Fingerprint recognized</string>
+    <string name="firebase_database_url" translatable="false">https://fidouafclient.firebaseio.com</string>
+    <string name="format_file_is_saved_to">File is saved to %1$s</string>
+    <string name="format_message_filename">message-%1$s.txt</string>
+    <string name="gcm_defaultSenderId" translatable="false">1019218267412</string>
+    <string name="google_api_key" translatable="false">AIzaSyDrrC5m_vX-8sH5sSoKXZ9U19bC-IiJeJk</string>
+    <string name="google_app_id" translatable="false">1:1019218267412:android:9ce2ea1480afad0e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDrrC5m_vX-8sH5sSoKXZ9U19bC-IiJeJk</string>
+    <string name="google_storage_bucket" translatable="false">fidouafclient.appspot.com</string>
+    <string name="hello_world">Welcome to eBay\'s \n Test FIDO UAF Client</string>
+    <string name="item_description">Mesh backpack in white. Black textile trim throughout.</string>
+    <string name="item_price">$62.68</string>
+    <string name="item_title">White Mesh Pluto Backpack</string>
+    <string name="name">Username:</string>
+    <string name="new_fingerprint_enrolled_description">A new fingerprint was added to this device, so your password is required.</string>
+    <string name="ok">OK</string>
+    <string name="password">Password</string>
+    <string name="password_description">Enter your store password to continue</string>
+    <string name="project_id" translatable="false">fidouafclient</string>
+    <string name="purchase">Purchase</string>
+    <string name="purchase_button_not_invalidated_description">
+        You can proceed to purchase with this button \n even if a new fingerprint is enrolled
+    </string>
+    <string name="purchase_done">Purchase successful</string>
+    <string name="purchase_not_invalidated">Purchase not invalidated</string>
+    <string name="save">Save</string>
+    <string name="textWelcome">Welcome</string>
+    <string name="token">Token:</string>
+    <string name="use_fingerprint_in_future">Use fingerprint in the future</string>
+    <string name="use_fingerprint_to_authenticate_key">use_fingerprint_to_authenticate_key</string>
+    <string name="use_fingerprint_to_authenticate_title">Use fingerprint to authenticate</string>
+    <string name="use_password">Use password</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        
+    </style>
+</resources>

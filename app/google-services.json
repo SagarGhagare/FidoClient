@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1019218267412",
+    "firebase_url": "https://fidouafclient.firebaseio.com",
+    "project_id": "fidouafclient",
+    "storage_bucket": "fidouafclient.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019218267412:android:9ce2ea1480afad0e",
+        "android_client_info": {
+          "package_name": "org.ebayopensource.fidouafclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019218267412-409ir0tukfskt9opqru99fdvjgpoq5q4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.ebayopensource.fidouafclient",
+            "certificate_hash": "0b11dd7d1611e4a12401f0cc7b88ce1c6b7a44a8"
+          }
+        },
+        {
+          "client_id": "1019218267412-g0irf8b4vlh4nemcpo23a7vtsibq0dpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrrC5m_vX-8sH5sSoKXZ9U19bC-IiJeJk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019218267412-g0irf8b4vlh4nemcpo23a7vtsibq0dpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

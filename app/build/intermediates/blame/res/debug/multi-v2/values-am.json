@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-am\\values-am.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sagar13387\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\04c51f5eb4be646ca8ddc0086a41c73a\\res\\values-am\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "283",
+                        "endColumns": "190",
+                        "endOffsets": "473"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "190",
+                        "endOffsets": "291"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\sagar13387\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-messaging-11.8.0.aar\\a58310b41a34bdaebf97eb12e1dfc958\\res\\values-am\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "241",
+                        "endColumns": "99",
+                        "endOffsets": "340"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "296",
+                        "endColumns": "103",
+                        "endOffsets": "395"
+                    }
+                }
+            ]
+        }
+    ]
+}

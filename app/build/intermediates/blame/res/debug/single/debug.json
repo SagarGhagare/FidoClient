@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card.xml.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\drawable\\card.xml"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_deregister.jpeg.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\drawable-hdpi\\deregister.jpeg"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_fp_40px.png.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\drawable-xhdpi\\ic_fp_40px.png"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_play.png.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\drawable-hdpi\\play.png"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\layout_fingerprint_dialog_backup.xml.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\layout\\fingerprint_dialog_backup.xml"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_fingerprint_success.xml.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\drawable\\ic_fingerprint_success.xml"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_s_proceed.xml.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\drawable-hdpi\\s_proceed.xml"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_check.png.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\drawable-hdpi\\check.png"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_fp_40px.png.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\drawable-mdpi\\ic_fp_40px.png"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_authenticated.xml.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\layout\\activity_authenticated.xml"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_s_authenticate.xml.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\drawable-hdpi\\s_authenticate.xml"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back.png.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\layout_fingerprint_dialog_container.xml.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\layout\\fingerprint_dialog_container.xml"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_fingerprint_error.xml.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\drawable\\ic_fingerprint_error.xml"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_reset.png.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\drawable-hdpi\\reset.png"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_key.png.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\drawable-hdpi\\key.png"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_s_deregister.xml.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\drawable-hdpi\\s_deregister.xml"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_register.jpeg.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\drawable-hdpi\\register.jpeg"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_fp_40px.png.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_fp_40px.png"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fido_uaf.xml.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\layout\\activity_fido_uaf.xml"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_fp_40px.png.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\drawable-xxhdpi\\ic_fp_40px.png"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_fp_40px.png.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\drawable-hdpi\\ic_fp_40px.png"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_save_message.xml.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\layout\\dialog_save_message.xml"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_separator.png.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\drawable-hdpi\\separator.png"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hourglass.png.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\drawable-hdpi\\hourglass.png"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_info.png.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\drawable-hdpi\\info.png"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_android_robot.png.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\drawable-nodpi\\android_robot.png"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registered.xml.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\layout\\activity_registered.xml"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_authenticate.jpeg.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\drawable-hdpi\\authenticate.jpeg"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_s_back.xml.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\drawable-hdpi\\s_back.xml"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_s_register.xml.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\drawable-hdpi\\s_register.xml"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\layout_fingerprint_dialog_content.xml.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\layout\\fingerprint_dialog_content.xml"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tile.9.png.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+    },
+    {
+        "merged": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\NHSD\\source_code\\fido-uaf-client\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
